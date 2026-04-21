@@ -43,3 +43,9 @@ gcc -Wall -Wextra -pedantic -std=c11 main.c -lm -o StackCalc
 ## Utilisation
 
 ```bash
+./StackCalc
+```
+
+## À propos
+
+Projet réalisé dans le cadre de l'apprentissage du langage C, suivant le cours [Le langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) sur Zeste de Savoir.
